@@ -1,0 +1,7 @@
+C:\Users\msi-nb\Desktop\projeler\kutuphane yonetim\kutuphane yonetim\bin\Debug\kutuphane yonetim.exe.config
+C:\Users\msi-nb\Desktop\projeler\kutuphane yonetim\kutuphane yonetim\bin\Debug\kutuphane yonetim.exe
+C:\Users\msi-nb\Desktop\projeler\kutuphane yonetim\kutuphane yonetim\bin\Debug\kutuphane yonetim.pdb
+C:\Users\msi-nb\Desktop\projeler\kutuphane yonetim\kutuphane yonetim\obj\Debug\kutuphane yonetim.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\projeler\kutuphane yonetim\kutuphane yonetim\obj\Debug\kutuphane yonetim.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\projeler\kutuphane yonetim\kutuphane yonetim\obj\Debug\kutuphane yonetim.exe
+C:\Users\msi-nb\Desktop\projeler\kutuphane yonetim\kutuphane yonetim\obj\Debug\kutuphane yonetim.pdb
